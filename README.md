@@ -1,28 +1,31 @@
-Description
+<b>Description</b>
+
 This is my personal portfolio website, created as my first self-initiated project while learning web development. It showcases my learning journey, small projects, and contact information. Currently built with HTML, and it will be enhanced with CSS, JavaScript, and React in the future.
 
-Sections
+<b>Sections</b>
 
-About Me – A short introduction about who I am and what I’m learning.
+&nbsp;&nbsp;&bull;About Me – A short introduction about who I am and what I’m learning.
 
-Projects – A list of my practice projects with short descriptions.
+&nbsp;&nbsp;&bull;Projects – A list of my practice projects with short descriptions.
 
-Learning Journey – A mini-diary documenting my progress day by day.
+&nbsp;&nbsp;&bull;Learning Journey – A mini-diary documenting my progress day by day.
 
-Contact – How to reach me via email or links to my GitHub/LinkedIn (coming soon).
+&nbsp;&nbsp;&bull;Contact – How to reach me via email or links to my GitHub/LinkedIn (coming soon).
 
-Technologies Used
+<b>Technologies Used</b>
 
-HTML
+&nbsp;&nbsp;&bull;HTML
 
-Status
+<b>Status</b>
 
-In progress – continuously updated as I learn more and add new features.
+&nbsp;&nbsp;&bull;In progress – continuously updated as I learn more and add new features.
 
-Future Plans
+<b>Future Plans</b>
 
-Style the website with CSS.
+&nbsp;&nbsp;&bull;Style the website with CSS.
 
-Add interactive features with JavaScript.
+&nbsp;&nbsp;&bull;Add interactive features with JavaScript.
 
-Build a React version to improve reusability and performance.
+&nbsp;&nbsp;&bull;Build a React version to improve reusability and performance.
+
+&lt;&lt;&lt;&nbsp;&copy;412-dev&nbsp;&gt;&gt;&gt;
